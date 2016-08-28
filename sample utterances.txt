@@ -1,0 +1,19 @@
+LogBP record my blood pressure as {systolic} over {diastolic}
+LogBP log my blood pressure as {systolic} over {diastolic}
+LogBP save my blood pressure as {systolic} over {diastolic}
+LogBP record my b. p. as {systolic} over {diastolic}
+LogBP log my b. p. as {systolic} over {diastolic}
+LogBP save my b. p. as {systolic} over {diastolic}
+LogBP {systolic} over {diastolic}
+AverageBP what is my average blood pressure
+AverageBP what's my average blood pressure
+AverageBP what is my average b. p.
+AverageBP what's my average b. p.
+AverageBP tell me my average blood pressure
+AverageBP tell me my average b. p.
+HistoricalBP export history
+HistoricalBP export my records
+HistoricalBP export records
+HistoricalBP tell me my history
+HistoricalBP give me my b. p.
+HistoricalBP what's my history

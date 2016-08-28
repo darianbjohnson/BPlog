@@ -1,0 +1,33 @@
+{
+  "intents": [
+  {
+      "intent": "LogBP",
+     "slots": [
+       {
+          "name": "systolic",
+          "type": "AMAZON.NUMBER"
+        },
+               {
+          "name": "diastolic",
+          "type": "AMAZON.NUMBER"
+        }
+       
+      ]
+    },
+    {
+      "intent": "AverageBP"
+    },
+    {
+      "intent": "HistoricalBP"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
